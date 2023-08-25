@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mcfliermeyer
 - 👀 I’m interested in ... mobile and web development
-- 🌱 I’m currently learning ... react-native
-- 💞️ I’m looking to collaborate on ... any fun ideas
+- 🌱 I’m currently learning ... SwiftUI and RealityKit
 - 📫 How to reach me ... Mcfliermeyer@gmail.com
 
 <!---
